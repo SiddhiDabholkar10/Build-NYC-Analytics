@@ -1,9 +1,7 @@
-# THIS IS ASSIGNMENT 2
-
-## Project Title : BuildNYC Analytics 
+## Project Title : Build NYC Analytics 
 
 ## Table of Contents
-- [Project Members](#project-members)
+
 - [Dataset Description](#dataset-description)
 - [Task 0: Setting up your environment](#task-0-setting-up-your-environment)
 - [Task 1: Data importing and transformation](#task-1-data-importing-and-transformation)
@@ -31,9 +29,7 @@
   - [3) Interactive Butterfly Chart](#3-visualization--butterfly-chart---dwelling-units-added-vs-removed-by-borough-year)
   - [4) Interactive Choropleth with bubbles](#4-visualization--choropleth-with-bubbles-linked-time-series-with-brush)
 
-### Project Members
-- Siddhi Dabholkar  
-- Dhru Prajapati   
+
 
 ### Dataset Description
 
