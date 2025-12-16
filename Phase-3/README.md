@@ -2,9 +2,6 @@
 
 # CS424 - Assignment 4
 
-## Group Members
-* Siddhi Dabholkar - sdabh@uic.edu
-* Dhru Prajapati  - dpraj7@uic.edu
 
 ### *Web Page : [NYC_Build_Analytics_Site](https://dhru205.github.io/NYC_Build_Analytics/)*
 ---
@@ -333,25 +330,6 @@ These findings demonstrate that the embedding space, combined with the linked te
 ![Dashboard](VideoProject4.gif)
 --- 
 
-### 5. Collaboration Process
-
-- We worked on this project together from start to finish, meeting regularly (in person and online) to plan milestones, divide work, and review each other’s changes through GitHub and screen-sharing.
-- We sketched the overall dashboard layout: PCA embedding as the anchor view, with linked time-series views, an NTA map, housing-impact charts, and work-type composition.
-- We jointly decided what “similarity” should mean in our embedding (project scale, housing impact, time, geography, and work-type mix).
-*Siddhi’s main responsibilities:*
-- Led the **data preparation and embedding construction**:
-  - Cleaned and filtered the DOB subset (2021–2025) and selected the core attributes.
-  - Implemented feature engineering in Python (log cost/area, delta_units, approval_days_cap, month encodings, missingness flags).
-  - Ran PCA, experimented with alternative designs (adding stories/heights), and exported the final `embeddings_2d_` CSVs.
-  - Worked on the script for PCA embedding scatterplot, Butterfly Chart for Dwelling Units and Choropleth.
-*Dhru’s main responsibilities:*
-  - Performed UMAP for dimensionality reduction.
-  - Set up `index.html`, `style.css`, and `script.js`, and wired in Vega, Vega-Lite, and vega-embed.
-  - Worked on Monthly filings by job type and the month-range brush, Work Type Composition Stacked Graph
-  - Led the final deployment on **GitHub Pages** and verified that the public URL works.
-*Joint work:*
-- We debugged interactions together (selection propagation, tooltips, color-scale issues) and iteratively refined the visual design.
-- We jointly prepared the final presentation, with each of us developing slides for our respective components and then reviewing and refining the deck together to ensure a clear, coherent narrative and smooth transitions between sections.
 
 
 
