@@ -240,24 +240,24 @@ The dashboard connects **where** (spatial), **when** (temporal), and **what** (j
 
 ### Task 1 (Linked View Visualizations)
 
-1. **Job Type Trends and Work-Type Composition in NYC Filings** — *Siddhi*  
+1. **Job Type Trends and Work-Type Composition in NYC Filings**
    Linked monthly clustered bars + normalized work-type mix; legend/brush selections coordinated with other views.
 
-2. **Initial Cost vs Floor Area with Borough Filtering** — *Dhru*  
+2. **Initial Cost vs Floor Area with Borough Filtering**
    Scatter with borough-based filtering and overplotting controls; defensive parsing/coercions for robust execution.
 
-3. **Dwelling Units: Adds vs Removals by Borough and Month** — *Siddhi*  
+3. **Dwelling Units: Adds vs Removals by Borough and Month**  
    Butterfly bars + monthly diverging bars showing adds (up) vs removals (down); linked to time brush and borough selection.
 
-4. **Approval Time Analysis by Borough and Job Type** — *Dhru*  
+4. **Approval Time Analysis by Borough and Job Type**  
    Ridgeline density (approval days, p99 cap) by borough with a legend-driven job-type filter; legend scoped so it only affects the ridgelines.
 
 ### Task 2 (Spatial Visualizations)
 
-1. **Dwelling-Unit Impact by NTA (Diverging Choropleth)** — *Dhru*  
+1. **Dwelling-Unit Impact by NTA (Diverging Choropleth)**   
    ΔDU = Proposed − Existing; NTA merge/validation and color scaling tuned for dynamic range.
 
-2. **NTA Choropleth + Bubbles + Linked Time Series** — *Siddhi*  
+2. **NTA Choropleth + Bubbles + Linked Time Series** 
    Choropleth colored by filings (symlog), centroid bubbles sized by brushed window, and city/borough time series linked via an interval brush.
 
 ### Task 3 (Linked Spatial Dashboards)
