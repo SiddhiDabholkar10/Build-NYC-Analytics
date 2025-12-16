@@ -19,10 +19,7 @@
 # ASSIGNMENT 3
  
 ## Project Title : BuildNYC Analytics
- 
-### Project Members
-- Siddhi Dabholkar 
-- Dhru Prajapati  
+   
  
 ### Dataset Description
  
