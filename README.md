@@ -1,6 +1,6 @@
 # Project Title : BuildNYC Analytics 
 
-### *Web Page : [NYC_Build_Analytics_Site](https://dhru205.github.io/NYC_Build_Analytics/)*
+### *Web Page : [NYC_Build_Analytics_Site](https://siddhidabholkar10.github.io/Build-NYC-Analytics-Dashboard/)*
 ---
 
 #### This is completed in 3 phases:
