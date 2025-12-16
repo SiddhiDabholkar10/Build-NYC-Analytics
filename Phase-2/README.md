@@ -1,8 +1,7 @@
 # Table of Contents
 
-- [ASSIGNMENT 3](#assignment-3)
   - [Project Title: BuildNYC Analytics](#project-title--buildnyc-analytics)
-    - [Project Members](#project-members)
+    
     - [Dataset Description](#dataset-description)
   - [Task 1: Linked view visualizations](#task-1-linked-view-visualizations)
     - [1) Job Type Trends and Work-Type Composition in NYC Filings](#1-job-type-trends-and-work-type-composition-in-nyc-filings)
