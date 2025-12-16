@@ -1,7 +1,5 @@
 # Project Title : BuildNYC Analytics 
 
-# CS424 - Assignment 4
-
 
 ### *Web Page : [NYC_Build_Analytics_Site](https://dhru205.github.io/NYC_Build_Analytics/)*
 ---
